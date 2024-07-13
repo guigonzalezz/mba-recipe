@@ -1,4 +1,4 @@
-<img width="100%"  src="./assets/Capa_Linkedin.png" alt="Background Rockeseat">
+<img width="100%"  src="./assets/Capa_LinkedIn.png" alt="Background Rockeseat">
 <div align="center">
   <h1>Recipe Page  </h1>
   <h2>MBA - FullStack</h2>
